@@ -21,17 +21,5 @@ function showTime(){
     document.getElementById("myClassDisplay").textContent=time
 
     setTimeout(showTime,1000)
-
-
-
-
-
-
-
-
-
-
-
-
 }
 showTime();
