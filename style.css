@@ -1,15 +1,10 @@
 
-    
-
 .image{
-    
     margin-left: 430px;
     margin-top: 99px;
     width: 200px; 
     height: 200px;
-    border-radius: 50%;
-    
-    
+    border-radius: 50%;    
 }
 
 .clock {
@@ -20,8 +15,5 @@
     color: #17D4FE;
     font-size: 60px;
     font-family: Orbitron;
-    letter-spacing: 7px;
-   
-
-
+    letter-spacing: 7px
 }
